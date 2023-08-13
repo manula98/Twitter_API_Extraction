@@ -1,1 +1,4 @@
 # Twitter_API_Extraction
+
+This is my undergraduate research project.therefore this will not be use for any monetary purposes.
+This research focuses on enhancing cryptocurrency price prediction by combining two key approaches: numerical value analysis and sentiment analysis from Twitter. It aims to integrate historical data, market indicators, and technical factors with sentiment signals derived from Twitter text. The study explores methods for data collection, noise handling, sentiment scoring, and classification. Feature engineering and machine learning models will be employed to create prediction models, assessing their accuracy and reliability compared to individual approaches. This integrated approach seeks to provide more accurate insights for informed decision-making in the dynamic cryptocurrency market.
